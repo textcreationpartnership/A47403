@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The order of the installation of Prince George of Denmark, Charles Duke of Somerset, and George Duke of Northvmberland, knights and companions of the most noble Order of the Garter in the royal chappel of St. George at Windsor, April the 8th, 1684.</title>
+            <author>King, Gregory, 1648-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47403</idno>
+            <idno type="STC">Wing K495</idno>
+            <idno type="STC">ESTC R16301</idno>
+            <idno type="EEBO-CITATION">13355470</idno>
+            <idno type="OCLC">ocm 13355470</idno>
+            <idno type="VID">99236</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99236)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 460:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The order of the installation of Prince George of Denmark, Charles Duke of Somerset, and George Duke of Northvmberland, knights and companions of the most noble Order of the Garter in the royal chappel of St. George at Windsor, April the 8th, 1684.</title>
+                  <author>King, Gregory, 1648-1712.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Tooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Gregory King.  Cf. NUC-pre 1956.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>George, --  Prince, consort of Anne, Queen of Great Britain, 1653-1708.</term>
+               <term>Northumberland, George Fitzroy, --  Duke of, 1665-1716.</term>
+               <term>Somerset, Charles Seymour, --  Duke of, 1662-1748.</term>
+               <term>Order of the Garter.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99236:1"/>
+            <pb facs="tcp:99236:1" rendition="simple:additions"/>
+            <p>THE ORDER OF THE INSTALLATION OF <hi>Prince George of Denmark, <hi>CHARLES</hi>
+               </hi> Duke of <hi>SOMERSET,</hi> AND <hi>GEORGE</hi> Duke of <hi>NORTH<g ref="char:V">Ʋ</g>MBERLAND.</hi> KNIGHTS and COMPANIONS <hi>Of the moſt Noble Order</hi> OF THE GARTER.</p>
+            <p>In the Royal Chappel of St. <hi>GEORGE</hi> AT WINDSOR, <hi>APRIL</hi> the 8th. 1684.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Tooke</hi> at the Ship in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99236:2"/>
+            <pb n="3" facs="tcp:99236:2"/>
+            <head>THE ORDER OF THE INSTALLATION OF Prince <hi>George</hi> of <hi>Denmark, Charles,</hi> Duke of <hi>Somer<g ref="char:EOLhyphen"/>ſet,</hi> and <hi>George,</hi> Duke of <hi>Northumberland,</hi> Knights and Companions of the moſt Noble Order of the <hi>Garter.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <head type="sub">Of the Election and Inveſtiture of the three New Knights at <hi>White-hall.</hi>
+               </head>
+               <p>THERE being three Stalls vacant, by the Death of three Knights and Companions of the Moſt Noble Order of the <hi>Garter, ſcil.</hi> the Stall of his Highneſs Prince <hi>Rupert,</hi> who de<g ref="char:EOLhyphen"/>ceaſed <hi>Novemb.</hi> the 29th. 1682. The Stall of the Earl of <hi>Salis<g ref="char:EOLhyphen"/>bury,</hi> who died about the 11th. of <hi>June</hi> 1683. And the Stall of the Earl of St. <hi>Albans,</hi> who died <hi>Jan.</hi> 2d. 1683. At a Chapter of the ſaid Moſt Noble Order, held at <hi>White-hall</hi> in the preſence of the Sovereign of the ſaid Order, on the Firſt of <hi>January</hi> laſt, <hi>ſcil.</hi> 1683/4. The moſt Illu<g ref="char:EOLhyphen"/>ſtrious Prince <hi>George,</hi> Brother to the preſent King of <hi>Denmark</hi> (having upon the 28th. of <hi>July</hi> laſt, married the Lady <hi>Anne,</hi> younger Daughter to his Royal Highneſs, the Duke of <hi>York,</hi> and Neece to our preſent So<g ref="char:EOLhyphen"/>vereign, King <hi>Charles</hi> the Second) was elected a Knight-Companion of the ſaid moſt Noble Order, being firſt Knighted by His Majeſty, Sovereign of the ſaid Order, and then inveſted with the two Principal Enſigns of the Order, <hi>ſcil.</hi> the <hi>Garter</hi> and <hi>George.</hi> The uſual Admonitions or Sig<g ref="char:EOLhyphen"/>nifications upon the ſaid Inveſtiture being pronounced,</p>
+               <p>
+                  <hi>Firſt,</hi> Upon buckling on the <hi>Garter</hi> about the Prince's Legg, this fol<g ref="char:EOLhyphen"/>lowing Admonition, <hi>viz.</hi>
+               </p>
+               <q>To the Land and Honor of Almighty God, his immaculate Mother, and St. <hi>George</hi> the Holy Martyr, tie, or gird your Leg with this Noble <hi>Garter,</hi> wearing it to the encreaſe of your Honor, and in Token and Remembrance of this moſt Noble Order; remembring that thereby your being admoniſhed and encoura<g ref="char:EOLhyphen"/>ged in all juſt Battels and Wars, which only you ſhall take in hand, both ſtrongly to fight, valiantly to ſtand, and honourably to have the Victory.</q>
+               <pb n="4" facs="tcp:99236:3"/>
+               <p>
+                  <hi>Secondly,</hi> Upon putting on the <hi>George</hi> pendant at a Sky-coloured Rib<g ref="char:EOLhyphen"/>band about the Prince's Neck, the Admonition enſuing was read to him, <hi>viz.</hi>
+               </p>
+               <q>To the Encreaſe of your Honor, and in Token of the Honourable Order you have received, take this Ribband about your Neck, with the Image of the Holy Martyr, and Chriſt's Knight, St. <hi>George,</hi> by whoſe Aid you being de<g ref="char:EOLhyphen"/>fended, may paſs through the Proſperities and Adverſities of the this World, that having here the Victory as well of your Ghoſtly as Bodily Enemies, you may not only receive the Glory and Renown of Temporal Chivalry, but alſo at laſt the endleſs and everlaſting Reward of Victory.</q>
+               <p>At another Chapter of the ſaid Order, held at <hi>White-hall</hi> the 10th. day of the ſaid month of <hi>January,</hi> for filling up the two other vacant Stalls, the High and Mighty Princes, <hi>Charles Seymour,</hi> Duke of <hi>Somerſet,</hi> and <hi>George Fitz-Roy,</hi> Duke of <hi>Northumberland</hi> were in like manner elected Knights-Companions of the ſaid moſt noble Order; the former whereof, <hi>viz.</hi> the Duke of <hi>Somerſet</hi> was at the ſame time inveſted with the ſaid two Prin<g ref="char:EOLhyphen"/>cipal Enſigns of the ſaid Order, <hi>viz.</hi> the <hi>Garter</hi> and <hi>George,</hi> the foremen<g ref="char:EOLhyphen"/>tioned Significations or Admonitions being then likewiſe pronounced, and read unto him upon the ſaid Inveſtiture. But the Duke of <hi>Northumberland</hi> being then in <hi>France;</hi> from whence being ſent for by His Majeſty, he arri<g ref="char:EOLhyphen"/>ved not till about the ſecond of <hi>March</hi> laſt; ſhortly after which being in<g ref="char:EOLhyphen"/>veſted with the <hi>George</hi> and <hi>Garter</hi> in manner aforeſaid. And His Majeſty and the Court being returned from <hi>Newmarket,</hi> the day for the Inſtallation was appointed the 8th. of this Inſtant <hi>April,</hi> 1684.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <head type="sub">Of the Inſtallation of the ſaid three Knights, at the Caſtle of <hi>Windſor;</hi> and firſt of their Proceedings to the <hi>Chapter-Houſe.</hi>
+               </head>
+               <p>HIS Majeſty, and the whole Court being removed from <hi>White-hall</hi> to <hi>Windſor,</hi> and the three Knights Elect, <hi>viz.</hi> Prince <hi>George,</hi> the Duke of <hi>Somerſet,</hi> and Duke of <hi>Northumberland</hi> being alſo arrived there, toge<g ref="char:EOLhyphen"/>ther with the Dukes of <hi>Albemarl</hi> and <hi>Beaufort,</hi> who were the two Knights Companions of the ſaid Order, Commiſſioned by his Majeſty to perform the ſaid Inſtallation; and being all five habited after the uſual manner, in their Doublets, and Trunck Hoſe, of Cloth of Silver, with white Gloves, Shoes and Stockins, Garters and Roſes, <hi>&amp;c.</hi> They met about nine of the Clock in the Morning the ſaid 8th. day of <hi>April,</hi> at the Lodgings of the Biſhop of <hi>Ro<g ref="char:EOLhyphen"/>cheſter,</hi> who is Dean of <hi>Windſor,</hi> and Regiſter of the ſaid moſt Noble Order, being a little to the Eaſtward of the Chappel of St. <hi>George.</hi> And the Robes, and other things to be uſed at the Inſtallation of the ſaid three Knights, being laid in readineſs at the lower end of the Table in the <hi>Chapter-houſe,</hi> by Sir <hi>Will. Dugdale,</hi> Garter, who is the Principal King of Arms, and a peculiar Officer of the ſaid Order, <hi>viz.</hi> for each of them, a Surcoat of Crimſon-Velvet, or Pur<g ref="char:EOLhyphen"/>ple, lined with white; a Sword and Belt; a Mantle of Sky coloured Vel<g ref="char:EOLhyphen"/>vet lined with white, with a Velvet Hood thereto belonging; a great <hi>Coller</hi> and <hi>George,</hi> conſiſting of 26 Garters of Gold, Enamell'd and Inter<g ref="char:EOLhyphen"/>laced
+<pb n="5" facs="tcp:99236:3"/>with as many Knots, with the Figure of St. <hi>George</hi> appendant there<g ref="char:EOLhyphen"/>at, enricht with Diamonds; a <hi>Velvet Cap,</hi> the Band enriched with Dia<g ref="char:EOLhyphen"/>monds, and adorned with a great Jewel before, and a large Plume of <hi>White Feathers,</hi> with one black Tuft in the middle; and laſtly, a Book of the Statutes of the ſaid moſt Noble Order, richly bound.</p>
+               <p>The poor Knights and Prebends belonging to the ſaid Colledge of <hi>Wind<g ref="char:EOLhyphen"/>ſor,</hi> being in their proper Habits [<hi>viz.</hi> the Poor Knights in Gowns of Blew Cloth, with an Eſcutcheon of the Arms of St. <hi>George, viz.</hi> a red Croſs in a White Field on the Shoulder, and the Prebends in Mantles of Crim<g ref="char:EOLhyphen"/>ſon, or Purple Silk, with a little Croſs in a Circle] and having placed themſelves in order in the Cloyſters, between the ſaid Deans Lodgings, and the Chappel of St. <hi>George:</hi> And the other Kings, Heralds, and Purſi<g ref="char:EOLhyphen"/>vants of Arms, having habited themſelves in the Dean's Hall, with His Majeſty's Coats of Arms richly embroidered according to their ſeveral De<g ref="char:EOLhyphen"/>grees. The Proceeding to the ſaid Chappel was as followeth.</p>
+               <p>Firſt the poor Knights, two and two, the <hi>Junior</hi> firſt.</p>
+               <p>Next, the Prebends two and two, the <hi>Junior</hi> firſt.</p>
+               <p>Then the Officers of Arms two and two, the Purſivants firſt.</p>
+               <p>Then the Knights Elect, habited only in their Doublets and Hoſe of Cloth of Silvers, as before is ſaid, ſingle one after another, the <hi>Junior</hi> firſt, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>The Duke of <hi>Northumberland,</hi>
+                  </item>
+                  <item>The Duke of <hi>Somerſet,</hi>
+                  </item>
+                  <item>Prince <hi>George.</hi>
+                  </item>
+               </list>
+               <p>Then the Officers of the Order, habited in their Mantles of Crimſon-Sattin, Lined with White, <hi>viz.</hi> Dr. <hi>Turner,</hi> Biſhop of <hi>Rocheſter</hi> Regi<g ref="char:EOLhyphen"/>ſter of the Order, wearing the Badge of his Office, <hi>viz.</hi> a Book em<g ref="char:EOLhyphen"/>belliſht, with a Garter, and two Pens acroſs.</p>
+               <p>Sir <hi>William Dugdale,</hi> Garter King of Arms, bearing the Commiſſion for the Inſtallation, and wearing the Badge of his Office hanging in a Gold Chain.</p>
+               <p>Sir <hi>Thomas Duppa,</hi> Uſher of the ſaid Order, wearing the peculiar Badge of his Office, hanging likewiſe in a Gold Chain.</p>
+               <p>Then the Duke of <hi>Albemarle,</hi> and the Duke of <hi>Beaufort,</hi> Commiſſion<g ref="char:EOLhyphen"/>ers for the ſaid Inſtallation, in their under Suits of Cloth of Silver, and Mantles of Blew Velvet, with their Caps and Feathers on their Heads.</p>
+               <p>Being entred the Chappel, the three Knights Elect, turning to the left Hand, repoſed themſelves on three Chairs, placed at the Back of the Quire, the Prince ſitting in the middle, while the two Knights Commiſſioners went into the Chapter Houſe, which is juſt at the entring the Chappel on the Right Hand; the Officers of the Order going in before them.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <head type="sub">The Ceremonies in the <hi>Chapter-Houſe.</hi>
+               </head>
+               <p>THE two Knights Commiſſioners, and the three Officers of the Order being thus entred into the <hi>Chapter-Houſe, Garter,</hi> King of Arms, with three Reverences preſented the Sovereign's Commiſſion for the Inſtalling
+<pb n="6" facs="tcp:99236:4"/>of the ſaid three Elect Knights, to the <hi>ſenior</hi> Knight Commiſſioner, who delivering it to the <hi>Regiſter,</hi> the <hi>Regiſter</hi> forthwith read the ſame and then re<g ref="char:EOLhyphen"/>turned it to the ſaid Knights Commiſſioners, who thereupon delivered it again to the ſaid <hi>Regiſter,</hi> to be enter'd on Record in the <hi>Regiſter-book</hi> of the ſaid Order.</p>
+               <p>Then <hi>Garter,</hi> King of Arms, being commanded by the Knights Com<g ref="char:EOLhyphen"/>miſſioners, to bring in Prince <hi>George</hi> of <hi>Denmark,</hi> came out of the <hi>Chap<g ref="char:EOLhyphen"/>ter-Houſe,</hi> and having made his Obeyſances to the ſaid Prince (who ſate all this while at the Back of the <hi>Quire</hi>) conducted him into the ſaid <hi>Chap<g ref="char:EOLhyphen"/>ter-Houſe,</hi> where the Prince having made his Reverence, the <hi>ſenior</hi> Knight Commiſſioner declared the Sovereign's great Favor towards him, in a full Admittance into this Honourable Society; which the Prince humbly ac<g ref="char:EOLhyphen"/>knowledging, the ſaid Commiſſioners, with <hi>Garter</hi>'s Aſſiſtance, inveſted him with the <hi>Surcoat</hi> before-mentioned, and girt the <hi>Sword</hi> about him over his <hi>Surcoat,</hi> while the <hi>Regiſter</hi> pronounced the Admonition follow<g ref="char:EOLhyphen"/>ing.</p>
+               <q>Take this Robe of Purple to the Encreaſe of your Honor, and in Token or Sign of the moſt Honourable Order you have received; wherewith you being defen<g ref="char:EOLhyphen"/>ded, may he bold, not only ſtrongly to fight, but alſo to offer your ſelf to ſhed your Blood for <hi>Chriſt's</hi> Faith, the Liberties of the <hi>Church,</hi> and the juſt and neceſſary Defence of them that be oppreſſed and needy.</q>
+               <p>The Prince being thus inveſted with the <hi>Surcoat,</hi> and girt with the <hi>Sword,</hi> remained in the <hi>Chapter-Houſe</hi> with the Knights Commiſſioners, whilſt <hi>Garter</hi> having received the like Command to bring in the next elect Knight, <hi>viz.</hi> the Duke of <hi>Somerſet,</hi> introduced him into the <hi>Chapter-Houſe</hi> in like manner; where being inveſted, and all other Ceremonies performed, as they were to the Prince, <hi>Garter</hi> was ſent out again for the youngeſt Knight Elect, <hi>ſcilt.</hi> the Duke of <hi>Northumberland;</hi> to whom all things were per<g ref="char:EOLhyphen"/>formed in like manner.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <head type="sub">The Proceeding into the <hi>Quire.</hi>
+               </head>
+               <p>THE three Knights Elect being thus inveſted with part of the Habit of the ſaid Noble Order, repoſed themſelves in the <hi>Chapter-Houſe,</hi> while the Knights Commiſſioners, and Officers of the Order, <hi>&amp;c.</hi> procee<g ref="char:EOLhyphen"/>ded into the <hi>Choire</hi> from the ſaid <hi>Chapter-Houſe,</hi> through the North Iſle, and in at the <hi>Weſt</hi> Door of the <hi>Choire</hi> under the Organ in this manner.</p>
+               <p>Firſt, The poor Knights, two and two, the <hi>Junior</hi> firſt.</p>
+               <p>Next, the Prebends, two and two, the <hi>Junior</hi> firſt.</p>
+               <p>Then the Officers of Arms, two and two, the Purſivants firſt.</p>
+               <p>Then the three Officers of the Order before-mentioned, the <hi>Regiſter</hi> in the Middle.</p>
+               <p>Then the Knights Commiſſioners with their Caps and Feathers on their Heads until they came to the Quire.</p>
+               <p>Being entred the <hi>Choire,</hi> the <hi>Poor Knights</hi> (making their Obeyſances in the middle of the <hi>Quire,</hi> firſt to the Altar, and then to the Sovereign's Stall) aſcended to the Steps before the Altar, and there divided themſelves to the right and left.</p>
+               <pb n="7" facs="tcp:99236:4"/>
+               <p>Next, the <hi>Prebends</hi> having made the like Obeyſances, took their Seats or Stalls, only two of them were conducted up by a <hi>Virger</hi> to the Altar, to receive the Atchievements, <hi>&amp;c.</hi>
+               </p>
+               <p>Then the Officers of Arms having made the like Obeyſances, aſcended likewiſe to the Steps before the Altar, and dividing themſelves to the right and left, ſtood before the poor Knights.</p>
+               <p>Then the three Officers of the Order, having made the like Obeyſances, came and ſtood before their own Seat or Form, on the Right Hand the Quire, a little before the Sovereign's Stall.</p>
+               <p>Laſtly, the two Knights Commiſſioners, after the like Obeyſances, came and ſtood in the <hi>Choire,</hi> under their reſpective Banners or Atchievements, which Atchievements, by the Sovereign's particular Warrant had been re<g ref="char:EOLhyphen"/>moved higher into their proper places the Day before, to the end the Atchievements of the two New Elect Knights-Subjects might be ſet up o<g ref="char:EOLhyphen"/>ver the two loweſt Stalls.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <head type="sub">The Offering of the Atchievements of the three defunct Knights.</head>
+               <p>THE Atchievements of the ſaid three defunct Knights, <hi>ſcilt.</hi> Prince <hi>Rupert,</hi> the Earl of St. <hi>Albans,</hi> and the Earl of <hi>Salisbury,</hi> being ta<g ref="char:EOLhyphen"/>ken down, and made clean, and placed in readineſs, directly under each defunct Knight's Stall, <hi>Garter</hi> came from his Seat, and having made his uſual Obeyſances to the Altar and Sovereign's Stall, and alſo to the Knights Commiſſioners, conducted them to the place where the Atchievements of Prince <hi>Rupert,</hi> the eldeſt defunct Knight, were laid.</p>
+               <p>Then the two Kings of Arms, called <hi>Clarenceux</hi> and <hi>Norroy,</hi> came down from the Steps of the Altar to the Body of the Choire, and having made their uſual Reverences to the Altar, and Sovereign's Stall, and alſo to the Knights Commiſſioners, diſpoſed themſelves a little before the ſaid Knights Commiſſioners on either ſide.</p>
+               <p>Which done, the two Knights Commiſſioners having received from <hi>Gar<g ref="char:EOLhyphen"/>ter</hi> the Banner of the ſaid Prince <hi>Rupert</hi> half rolled up, made their double Obeyſances; and (being preceded by the ſaid Kings of Arms) paſſed up towards the Altar, bearing the lower end of the Staff foremoſt; and ma<g ref="char:EOLhyphen"/>king another double Reverence at the firſt <hi>Haut pas,</hi> the two Kings of Arms, after an humble Obeyſance, divided themſelves, to make way for the Knights Commiſſioners, who being come to the upper <hi>Haut pas,</hi> made a ſingle Reverence to the Altar, and raiſing the Point of the Banner up<g ref="char:EOLhyphen"/>wards, preſented it with a Bow to the two Canons or Prebends before-mentioned, who depoſited it upon Cuſhions laid before the Altar.</p>
+               <p>Which done, the ſaid Kings of Arms having conducted the aforeſaid Knights Commiſſioners back into the <hi>Choire,</hi> returned unto their places; whereupon the two <hi>Senior</hi> Heralds came down, and making their double Reverences, as alſo to the ſaid Knights Commiſſioners, to whom <hi>Garter</hi> delivered the Sword of the ſaid Defunct Knight (<hi>Prince Rupert</hi>) with the <hi>Pommel</hi> or Hilt upwards, conducted them up to the Altar, where, after the uſual Reverences, it was offered as aforeſaid. Then returning again, <hi>Garter</hi> delivered them the Helm and Creſt of the ſaid Defunct Knight;
+<pb n="8" facs="tcp:99236:5"/>which they offered in like manner, the two next Heralds preceeding before them.</p>
+               <p>In like ſort the Atchievements, <hi>viz.</hi> the Banner, Sword, and Helm and Creſt, of the next Defunct Knight, <hi>ſcil.</hi> the Earl of St. <hi>Albans</hi> were offered up by the ſaid Knights Commiſſioners, conducted by two Officers of Arms.</p>
+               <p>Laſtly, The Atchievements of the third Defunct Knight (<hi>ſcil.</hi> the Earl of <hi>Sarum</hi>) were offered up in like manner.</p>
+               <p>Which being performed, the knights Commiſſioners making their uſual Obeyſances, returned, and ſtood under their reſpective Banners, and the Officers of Arms return'd to their Stations at the Steps before the Altar.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <head type="sub">The Inſtallation of the Three Elect Knights, and firſt, the introducing the <hi>Senior</hi> Knight Elect to his Stall.</head>
+               <p>THE Atchievements thus offered, the poor Knights came down from the Steps before the Altar (the <hi>Junior</hi> firſt) into the mid<g ref="char:EOLhyphen"/>dle of the <hi>Choire;</hi> where making their double Reverences, they proceed<g ref="char:EOLhyphen"/>ed out of the Chappel towards the <hi>Chapter-Houſe;</hi> and next to them, the Officers of Arms in like Order, as alſo the three Officers of the Order, and the two Knights Commiſſioners.</p>
+               <p>Being come into the <hi>North</hi> Iſle, the Poor Knights divided themſelves to the Right and left, and the Heralds paſſing between them, nearer to the <hi>Chapter-Houſe</hi> Door, divided themſelves in like manner, while the Officers of the Order and Knights Commiſſioners paſſing through them, entered the <hi>Chapter-houſe,</hi> where the three Knights Elect ſtill remained.</p>
+               <p>Whence after a ſhort ſtay, the Knights Commiſſioners bringing the <hi>Se<g ref="char:EOLhyphen"/>nior</hi> Knight Elect (<hi>ſcil.</hi> Prince <hi>George</hi>) they proceeded towards the Quire in form aforeſaid, that is to ſay, firſt, the poor Knights, next, the Officers of Arms; then the three Officers of the Order, <hi>Garter</hi> going in the middle betwixt the <hi>Regiſter</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> of the Order) bearing on a Purple or <hi>Crim<g ref="char:EOLhyphen"/>ſon</hi> Velvet Cuſhion, the <hi>Mantle, Hood, great Coller,</hi> and <hi>Book</hi> of Statutes before him. Then the Prince, or <hi>Senior</hi> Knight Elect, bare-headed, with his Cap and Feather in his Hand betwixt the two Knights Commiſſioners, who wore their Caps and Feathers till the Entrance into the Quire.</p>
+               <p>Thus entring the Quire, the poor Knights, and Officers of Arms, ma<g ref="char:EOLhyphen"/>king their uſual Obeyſances, went up to their former Station at the Steps before the Altar, while the Officers of the Order making the like Reve<g ref="char:EOLhyphen"/>rences, came before the Stall deſign'd for the <hi>ſenior</hi> Knight Elect, being the Fourth Stall on the Side called the <hi>Prince's</hi> Side; the three Superior Stalls on that Side being thoſe of the <hi>King</hi> of <hi>Sweden,</hi> the <hi>Duke</hi> of <hi>York,</hi> and the <hi>Prince Elector</hi> of <hi>Brandenburgh:</hi> And <hi>Garter</hi> having orderly diſpoſed the <hi>Mantle, Hood, Coller,</hi> &amp;c. before the Stall deſign'd for the ſaid Prince, came and ſtood in the Quire, with the other two Officers juſt before the ſaid Stall.</p>
+               <p>Then the Knights Commiſſioners making the like Reverences, came in<g ref="char:EOLhyphen"/>to the lower or middle Row of Stalls directly under the deſigned Stall of the ſaid Prince or <hi>ſenior</hi> Knight Elect, whom they introduced between
+<pb n="9" facs="tcp:99236:5"/>them into the ſaid lower Space or Row oppoſite to his Stall, where being placed, the <hi>Regiſter</hi> of the ſaid Order ſtanding in the Quire before him, read his Oath to him, <hi>Garter</hi> holding the Book; the Form of which Oath is as follows.</p>
+               <q>You being choſen to be one of the Honourable Company of this moſt Noble Or<g ref="char:EOLhyphen"/>der of the <hi>Garter,</hi> ſhall promiſe and ſwear by the Holy Evangeliſts, by you here touched, that wittingly or willingly you ſhall not break any Statute of the ſaid Order, or any Articles in them contained; the ſame being agreeable and not re<g ref="char:EOLhyphen"/>pugnant to the Laws of Almighty God, and the Laws of this Realm, as far forth as to you belongeth and appertaineth; ſo God help you and his Holy Word.</q>
+               <p>The Oath being thus adminiſtred, and the ſaid Elect Knight having kiſſed the Book, he was led by the Knights Commiſſioners up to the Stall appointed for him, through the middle Entrance, and by them placed be<g ref="char:EOLhyphen"/>fore it.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <head type="sub">The Inſtallation of <hi>Prince George,</hi> being the <hi>Senior</hi> Knight Elect.</head>
+               <p>THE <hi>Prince</hi> thus ſtanding in his Stall (which, as is ſaid before, was the Fourth on the Princes Side) <hi>Garter</hi> advanced into the lower Row of Stalls to the place where the Prince took his Oath, and with an Obeyſance to the Knights Commiſſioners, preſented to them the <hi>Mantle</hi> wherewith they inveſted the Prince, and put on the <hi>Hood</hi> upon his Right Shoulder over the <hi>Mantle,</hi> bringing the <hi>Tippet</hi> athwart his Breaſt, and tucking it under his <hi>Belt</hi> or <hi>Girdle,</hi> in the doing whereof the <hi>Regiſter</hi> read unto him the Admonition following.</p>
+               <q>Take this <hi>Mantle</hi> of Heavenly Colour, in ſign and token of the moſt Honou<g ref="char:EOLhyphen"/>rable Order you have received, and to the encreaſe of your Honour, ſigned and marked as you ſee with a Red Eſcotcheon of our Lord's Croſs, to the Intent that you being always defended by the vertue and ſtrength thereof, may paſs through your Enemies, and them alſo overcome and vanquiſh, ſo that at the laſt, for your worthy and approved Acts, you may after this Temporal Chivalry, come to Eternal Triumphant Joys in Heaven.</q>
+               <p>Then the Knights Commiſſioners put on the great <hi>Coller</hi> of the Order about his Shoulders, tying it at each Shoulder over his <hi>Mantle</hi> and <hi>Hood,</hi> while the <hi>Regiſter</hi> read to him the Admonition enſuing.</p>
+               <q>To the Encreaſe of your Honour, and in Token of the Honourable Order you have received, take this Coller about your Neck, with the Image of the Holy Martyr, and Chriſt's Knight <hi>St. George,</hi> by whoſe Aid you being defended, may paſs through the Proſperities and Adverſities of this World, that having here the Victory as well of your Ghoſtly as Bodily Enemies, you may not only re<g ref="char:EOLhyphen"/>ceive the Glory and Renown of Temporal Chivalry; but alſo at the laſt, the end<g ref="char:EOLhyphen"/>leſs and everlaſting Reward of Victory.</q>
+               <p>After this the ſaid Knights Commiſſioners preſented the new Inveſted Knight (the <hi>Prince</hi>) with the <hi>Book</hi> of Statutes; and having put the <hi>black Velvet Cap,</hi> adorned with Plumes of white Feathers upon his Head, the <hi>Prince</hi> ſtanding all this while before his Stall, made his double Obeyſances, firſt towards the High Altar, and then towards the Sovereign's Stall, where<g ref="char:EOLhyphen"/>upon the Knights Commiſſioners embracing him as their Fellow and Com<g ref="char:EOLhyphen"/>panion,
+<pb n="10" facs="tcp:99236:6"/>place him, or ſet him down uncovered in his aſſigned Stall; and from this laſt Action the whole Ceremony is denominated an IN<g ref="char:EOLhyphen"/>STALLATION.</p>
+               <p>Which being performed, the Knights Commiſſioners making their Obey<g ref="char:EOLhyphen"/>ſances came down into the Quire, and ſtood under their reſpective Banners.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <head type="sub">The Inſtallation of the Dukes of <hi>Somerſet</hi> and <hi>Northumberland,</hi> being the two Elect Knight-Subjects.</head>
+               <p>THE Duke of <hi>Somerſet</hi> being next to be Inſtalled, the poor Knights and Officers of Arms, came down from the Steps before the Altar, and making their uſual Obeyſances, proceeded out of the Quire, the Officers of the Order, and Knights Commiſſioners following them, and thence to the <hi>Chapter-Houſe</hi> again, as they did when they went to fetch in the <hi>Prince, Chap.</hi> 6. whence they conducted the next Elect Knight, <hi>ſcil.</hi> the Duke of <hi>Somerſet,</hi> in the ſame Order as before, into the lower Space before his de<g ref="char:EOLhyphen"/>ſigned Stall, being the loweſt Stall on the Sovereign's Side; where having taken the Oath before recited, the Knights Commiſſioners conducted him up to his proper Stall, and inveſted him with the <hi>Mantle, Hood</hi> and <hi>Great Coller,</hi> the <hi>Regiſter</hi> reading unto him the ſeveral Admonitions before re<g ref="char:EOLhyphen"/>cited; after which they preſented him with the <hi>Book</hi> of Statutes; and having put on his <hi>Velvet Cap</hi> with Feathers, placed him in his Stall, all things being performed in the ſame manner, as before for Prince <hi>George.</hi>
+               </p>
+               <p>Laſtly, the poor Knights, Officers of Arms, and Officers of the Order, conduct the Knights Commiſſioners out of the Quire again to the <hi>Chapter-Houſe</hi> in the ſame manner as before, whence they brought betwixt them the third, or youngeſt Knight Elect, <hi>ſcil.</hi> the Duke of <hi>Northumberland,</hi> and inſtalled him in the loweſt Stall on the <hi>Prince's</hi> Side, performing all things as before for the firſt and ſecond Knights.</p>
+               <p>All the three Knights being thus inſtalled, the Officers of the Order con<g ref="char:EOLhyphen"/>ducted the Knights Commiſſioners to their reſpective Stalls, and making their uſual Obeyſances, went to their own Seat.</p>
+               <p>Then the Officers of Arms came down from the Altar into the <hi>Choire,</hi> to hear Divine Service; the Kings of Arms firſt, and after them the poor Knights to their Seats, the Eldeſt firſt.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX.</head>
+               <head type="sub">
+                  <hi>The Offering of</hi> Gold <hi>and</hi> Silver.</head>
+               <p>THen Divine Service began, and the Communion, or Second Service being performed as far as to the <hi>Offertory,</hi> at the Words, <hi>Let your Light ſo ſhine before Men,</hi> &amp;c. The poor Knights making their Obeyſan<g ref="char:EOLhyphen"/>ces, aſcended to their Station at the Steps before the Altar, the <hi>Junior</hi> firſt, and after them the Heralds in like manner, flanking the ſaid Poor Knights.</p>
+               <pb n="11" facs="tcp:99236:6"/>
+               <p>Then <hi>Garter</hi> came from his Form to the middle of the <hi>Choire,</hi> where making his uſual Obeyſances, he ſummmoned down from their Stalls the two <hi>Junior</hi> new Inſtalled Knights, <hi>viz.</hi> the Dukes of <hi>Northumberland</hi> and <hi>So<g ref="char:EOLhyphen"/>merſet,</hi> who made their double Reverences in the Quire, and then placed themſelves juſt under their reſpective Banners.</p>
+               <p>Next he ſummon'd down the <hi>Junior</hi> Knight Commiſſioner, the Duke of <hi>Beaufort,</hi> and after him the <hi>ſenior</hi> Knight Commiſſioner, the Duke of <hi>Al<g ref="char:EOLhyphen"/>bemarle,</hi> and laſtly the <hi>Prince,</hi> who ſeverally making their Obeyſances, placed themſelves in like manner under their reſpective Banners.</p>
+               <p>The five Knights ſtanding thus under their ſeveral Banners, the two Kings of Arms, called <hi>Clarenceux</hi> and <hi>Norroy</hi> came down into the <hi>Choire,</hi> and having made their double Reverences, as alſo their Obeyſance to the Eldeſt Inſtalled Knight, <hi>Prince George,</hi> they conducted him up towards the Altar, and he having made his uſual Reverences both in the Quire and at the firſt ſtep, or <hi>Hautpas,</hi> kneeled down on one Knee at the upper ſtep (a Velvet Cuſhion being laid for that purpoſe) and offered <hi>Gold</hi> and <hi>Silver,</hi> two of the Prebends holding a large Gilt Baſin in which they received it, making their Reverence to the ſaid Knight Com<g ref="char:EOLhyphen"/>panion.</p>
+               <p>Having offered, the ſaid Kings of Arms making their uſual Obeyſan<g ref="char:EOLhyphen"/>ces conducted him to the Eaſt end, or Paſſage into the Companions Stalls of the <hi>Prince's</hi> ſide where he made his Obeyſances, and ſo paſſing through the Stalls, went up to his proper Seat or Stall, where he repeated the uſual Obeyſances and reſted himſelf.</p>
+               <p>Then the two Senior Heralds conducted up the Senior Knight, Com<g ref="char:EOLhyphen"/>miſſioner, the Duke of <hi>Albemarle,</hi> who offered in like manner and returned to his Stall by the ſame way or paſſage as the <hi>Prince</hi> did to his, the Princes being the 4th. and His the 7th. on that ſide.</p>
+               <p>Then the two next Heralds conducted up the Junior Knight Commiſſion<g ref="char:EOLhyphen"/>er, the Duke of <hi>Beaufort</hi> who offered Gold and Silver in like manner, and returned to his Stall being the Eighth Stall on the Soveraign ſide by the Eaſt Paſſage or Entrance on that ſide, making the like Reverences.</p>
+               <p>Laſtly two other Heralds or Officers of Arms making their accuſtomed Reverences Conducted up the two Junior Inſtalled Knights together (be<g ref="char:EOLhyphen"/>ing Pairs or Fellows to each other, which the Commſſioners were not) who making their uſual Obeyſances offered Gold and Silver in manner as aforeſaid, and return'd to their Reſpective Stalls, the Duke of <hi>Somerſet</hi> to the 13th. or loweſt Stall on the Soveraign ſide, and the Duke of <hi>Northum<g ref="char:EOLhyphen"/>berland</hi> to the 13th. or loweſt Stall on the <hi>Princes</hi> ſide, each being con<g ref="char:EOLhyphen"/>ducted thither by one Officer of Arms.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X.</head>
+               <head type="sub">
+                  <hi>The Concluſion.</hi>
+               </head>
+               <p>THE Offering thus performed, and the Knights remaining in their Reſpective Stalls, the Officers of the Order at their peculiar Seat or Form, and the Officers of Arms and Poor Knights at the Steps before the Altar flanking on each ſide, Divine Service proceeded, and ending with particular Prayers for the Soveraign and Knights Companions the Bene<g ref="char:EOLhyphen"/>diction was pronounced.</p>
+               <pb n="12" facs="tcp:99236:7"/>
+               <p>Whereupon a Virger Reverently conducted down the two Prebends from the Altar to their own Seats among their Fellows in the Quire. Which done, <hi>Garter</hi> coming from his Form and making his Reverences in the Choir, Summon'd down all the Five Knights Companions, <hi>viz.</hi> the two Junior firſt, and then the three other one after another, who after their accuſtomed Reverences came and ſtood in the Quire under their Re<g ref="char:EOLhyphen"/>ſpective Banners.</p>
+               <p>Then the poor Knights deſcended from the Steps before the Altar by two &amp; two the Junior firſt, and making their joint double Reverences in the mid<g ref="char:EOLhyphen"/>dle of the Quire, proceded out of the <hi>Chappel;</hi> then the Prebends deſcending from their Seats or Stalls into the middle of the Choir, made the like dou<g ref="char:EOLhyphen"/>ble Reverences jointly, and going out two by two the Junior firſt, follow<g ref="char:EOLhyphen"/>ed the Poor Knights; Next to them the Heralds deſcended from the Steps before the Altar, and making the like double Reverences joyntly in the middle of the Quire, followed the Brebends by two and two, the Purſi<g ref="char:EOLhyphen"/>vants firſt, then the three Officers of the Order making the like Reveren<g ref="char:EOLhyphen"/>ces followed the Officers of Arms, the <hi>Regiſter</hi> in the middle, <hi>Garter</hi> on the Right-hand and the <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> on the Left, laſtly the five Knights Compa<g ref="char:EOLhyphen"/>nions in order followed the ſaid Officers after having made their reſpective Obeyſance, <hi>viz.</hi> the Duke of <hi>Northumberland</hi> and Duke of <hi>Somerſet</hi> toge<g ref="char:EOLhyphen"/>ther being Fellows; Next the Duke of <hi>Beaufort,</hi> then the Duke of <hi>Albe<g ref="char:EOLhyphen"/>male,</hi> and laſtly Prince <hi>George</hi> of <hi>Denmark.</hi>
+               </p>
+               <p>Thus paſſing out of the Quire at the great Weſt Door under the Organ, they proceeded through the North Iſle and ſo through the Cloyſters, where the Poor Knights and Prebends falling back to the Right and Left, the Of<g ref="char:EOLhyphen"/>ficers of Arms, and Officers of the Order conducted the ſaid Knights to the Deans Lodgings, their Trains being held up by the Quiriſters.</p>
+               <p>And thus the Ceremony ended.</p>
+               <p>To which only it is thought fit to add the Styles of the three New In<g ref="char:EOLhyphen"/>ſtalled Knights as they are Engraven in <hi>French</hi> on their Plates ſet up at the Back of their reſpective Stalls, together with a Scheme of the 26 Stalls as they now ſtand filled up by that preſent Inſtallation.</p>
+               <div type="part">
+                  <head>The Style or Titles of Prince George of Denmark.</head>
+                  <p>
+                     <q>Du Tres-haut, Tres-puiſſant et Illuſtre Prince <hi>George,</hi> Prince Heredi<g ref="char:EOLhyphen"/>taire de <hi>Danemarc</hi> (Frere unique du Tres-haut, Tres-puiſſant et Tres-ex<g ref="char:EOLhyphen"/>cellent-Prince <hi>Chriſtian</hi> cinquieme du Nom, par la Grace de Dieu, Roy de <hi>Danemarc Norvegue</hi> etc.) et Chevalier du Tres-Noble Ordre de la Jartiere, <hi>Enſtallè</hi> au Chaſteau de <hi>Windeſor le</hi> VIII. <hi>Jour d' Auril.</hi> M.DCLXXXIIII.</q>
+                  </p>
+                  <p>
+                     <hi>In Engliſh thus.</hi>
+                  </p>
+                  <p>
+                     <q>The moſt High, moſt mighty and Illuſtrious Prince <hi>George,</hi> Heredi<g ref="char:EOLhyphen"/>tary Prince of <hi>Denmark</hi> (only Brother to the moſt High, moſt mighty and moſt Excellent Prince <hi>Chriſtian</hi> the fifth of that Name, by the <hi>Grace of God King</hi> of <hi>Denmark, Norway,</hi> etc.) and <hi>Knight of the moſt Noble Order of the Garder.</hi> Inſtalled at the <hi>Caſtle</hi> of <hi>Windſor</hi> the 8th day of April. 1684.</q>
+                  </p>
+                  <pb n="13" facs="tcp:99236:7"/>
+                  <p>The Arms and Quarterings, <hi>&amp;c.</hi> are the ſame as his Brother the King of <hi>Denmark</hi>'s whoſe Stall is the 2d. Stall on the Soveraigns ſide, only di<g ref="char:EOLhyphen"/>ſtinguiſhed with a Label of three points Ermine, and enſigned with a Co<g ref="char:EOLhyphen"/>ronet of Leaves and Pearles with one Arch.</p>
+               </div>
+               <div type="part">
+                  <head>The Stile or Titles of the Duke of Somerſet.</head>
+                  <p>
+                     <q>Du Tres-haut, puiſſant et Tres-noble Prince <hi>Charles</hi> Due de <hi>Somerſet,</hi> Comte de <hi>Hertford,</hi> Vicomte <hi>Beauchamp</hi> de <hi>Hache</hi> Baron <hi>Seymour</hi> de <hi>Trou<g ref="char:EOLhyphen"/>bridge</hi> et Chevalier du Tres-noble Ordre de la Jartiere <hi>Enſtallè</hi> au Chaſteau de <hi>Windeſor</hi> le huitiême Jour d' <hi>Avril</hi> l'an MD.CLXXXIV.</q>
+                  </p>
+                  <p>In Engliſh thus.</p>
+                  <p>
+                     <q>The moſt high mighty and moſt Noble Prince <hi>Charles</hi> Duke of <hi>Somer<g ref="char:EOLhyphen"/>ſet,</hi> Earl of <hi>Hertford</hi> Vicount <hi>Beauchamp</hi> of <hi>Hache</hi> and Baron <hi>Seymour</hi> of <hi>Troubridge</hi> and <hi>Knight of the moſt Noble Order of the Garter.</hi> Inſtalled at the <hi>Caſtle</hi> of <hi>Windeſor</hi> the 8th day of <hi>April</hi> in the year 1684.</q>
+                  </p>
+                  <p>The Banner and Plate conſiſt of 6. Quarterings, <hi>viz.</hi> 1ſt the Augmen<g ref="char:EOLhyphen"/>tation, 2d. <hi>Seymour,</hi> 3d. <hi>Sturmy,</hi> 4th. <hi>Beauchamp</hi> of <hi>Hache,</hi> 5th. <hi>Fitz-Williams,</hi> 6th. <hi>Prinne.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The Stile or Titles of the Duke of Northumberland.</head>
+                  <p>
+                     <q>Du Tres-haut, Puiſſant et Tres-Noble Prince <hi>George Fitz-Roy</hi> Due et Comte de <hi>Northumberland,</hi> Vicomte <hi>Falmouth</hi> et Baron de <hi>Pontfract,</hi> et Chevalier du Tres-Noble Ordre de la Jartiere: <hi>Enſtallè</hi> au Chaſteau de <hi>Windeſor</hi> le huitiême Jour d' <hi>Avril</hi> l'an. MD.LXXXIV.</q>
+                  </p>
+                  <p>In Engliſh thus.</p>
+                  <p>
+                     <q>The moſt High, mighty and moſt Noble Prince <hi>George, Fitz-Roy</hi> Duke and Earl of <hi>Northumberland,</hi> Vicount <hi>Falmouth</hi> and Baron of <hi>Pontfract,</hi> and <hi>Knight of the moſt Noble Order of the Garter; Inſtalled</hi> at the <hi>Caſtle</hi> of <hi>Windeſor</hi> the 8th. day of <hi>April</hi> in the year. 1684.</q>
+                  </p>
+                  <p>The Armes and Quarterings on the Banner and Plate are the Royal Armes with a Battoon ſiniſter Golonè or Componè of 6 pieces Ermine and Azure.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="enclosed_table">
+            <pb n="14" facs="tcp:99236:8"/>
+            <p>
+               <table>
+                  <head>A Scheme of the Stalls at <hi>WINDSOR,</hi> as they were filled up <hi>April</hi> the <hi>8th. 1684.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell>2.</cell>
+                     <cell>1.</cell>
+                     <cell>1.</cell>
+                     <cell>2.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">The King of <hi>Denmark.</hi>
+                     </cell>
+                     <cell role="label">The Sovereign of the Order.</cell>
+                     <cell role="label">The King of <hi>Sweden.</hi>
+                     </cell>
+                     <cell role="label">The Duke of <hi>York.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell cols="2">The Prince of <hi>Orange.</hi>
+                     </cell>
+                     <cell cols="2">The Prince Elector of <hi>Brandenburgh.</hi>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell cols="2">The Prince Elector <hi>Palatine.</hi>
+                     </cell>
+                     <cell cols="2">Prince <hi>George</hi> of <hi>Denmark.</hi>
+                     </cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell cols="2">The Duke of <hi>Ormond.</hi>
+                     </cell>
+                     <cell cols="2">The Duke of <hi>Buckingham.</hi>
+                     </cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell cols="2">The Earl of <hi>Oxford.</hi>
+                     </cell>
+                     <cell cols="2">The Earl of <hi>Strafford.</hi>
+                     </cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell cols="2">The Duke of <hi>Monmouth.</hi>
+                     </cell>
+                     <cell cols="2">The Duke of <hi>Albemarl.</hi>
+                     </cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell cols="2">The Duke of <hi>Beaufort.</hi>
+                     </cell>
+                     <cell cols="2">The Earl of <hi>Bedford.</hi>
+                     </cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell cols="2">The Earl of <hi>Arlington.</hi>
+                     </cell>
+                     <cell cols="2">The Duke of <hi>Southampton.</hi>
+                     </cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell cols="2">The Earl of <hi>Mulgrave.</hi>
+                     </cell>
+                     <cell cols="2">The Duke of <hi>Newcaſtle.</hi>
+                     </cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell cols="2">The Earl of <hi>Danby.</hi>
+                     </cell>
+                     <cell cols="2">The Duke of <hi>Graſton.</hi>
+                     </cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell cols="2">The Duke of <hi>Richmond.</hi>
+                     </cell>
+                     <cell cols="2">The Duke of <hi>Hamilton.</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell cols="2">The Duke of <hi>Somerſet.</hi>
+                     </cell>
+                     <cell cols="2">The Duke of <hi>Northumberland.</hi>
+                     </cell>
+                     <cell>13</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
